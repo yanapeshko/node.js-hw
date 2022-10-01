@@ -1,0 +1,26 @@
+{
+  "name": "node.js-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanapeshko/node.js-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanapeshko/node.js-hw/issues"
+  },
+  "homepage": "https://github.com/yanapeshko/node.js-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
